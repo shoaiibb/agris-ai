@@ -1,0 +1,5 @@
+{
+  "name": "AgriScribe",
+  "description": "An expert agricultural crop doctor to help identify plant diseases and provide treatment solutions.",
+  "requestFramePermissions": ["microphone"]
+}
